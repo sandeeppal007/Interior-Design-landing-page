@@ -22,12 +22,9 @@
 
 🔛 It takes 3 Hour to complte this project.
 
-> ### About More
-⚠️ Website are not responsive but ASAP i make them responsive.
 
-⚠️ Website was not complete complete website comes later days.
 
 🔁 Update comes in future 
 
 
-🔗[Live Link](https://dreamy-piroshki-5a956c.netlify.app/)
+🔗[Live Link]([https://dreamy-piroshki-5a956c.netlify.app/](https://kaleidoscopic-lokum-33d748.netlify.app/))
